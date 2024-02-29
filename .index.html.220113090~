@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Personal profile</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+  </head>
+
+  <body>
+    <header> 
+      <br>
+       <img id="pfp" src="IMG_9707.jpg" height="15%" width="15%" alt="Profile picture" 
+         style="border-radius:50%; float:left">
+      <hr style="border-radius:50%">
+      <h2 style="font-family:'Times New Roman', Times, serif;text-align:center">Ryan Lee Sui Kuang</h2>
+      <h4 style="text-align:center">H2 Computing Student</h4>
+
+      <hr style="border-radius: 50%;">
+      <br>
+    
+    </header>
+    <section>
+      <br>
+      <h3 class="header">About me</h3>
+    
+      <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      I am  a big fan of computer games such as <em>Teamfight Tactics</em> and <em>Honkai Star Rail</em>. I am also passionate about Scouts and giving back to the community. I enjoy learning new skills and finding new hobbies as I feel that living a diverse life is important.
+      </p>
+     
+    </section>
+
+    <section>
+      <h3 class="header">Activity</h3>
+
+
+      
+    </section>
+
+    
+    <section id="education">
+      <h3 class="header">Education</h3>
+      <div class="schools" id="JC">
+        <h4>Tertiary Education</h4>
+        <ul>
+          <li>Anderson Serangoon Junior College</li>
+          <li>CCA: -</li>
+          <li>Position: -</li>
+          <li>Achievements: -</li>
+        </ul>
+      </div>
+      <div class="schools" id="secondary">
+        <h4>Secondary School</h4>
+        <ul>
+          <li>Chung Cheng Highschool Main</li>
+          <li>CCA: Scouts</li>
+          <li>Position: Chairperson</li>
+          <li>Achievements:
+            <ul>
+              <li>Chief Commisioners Award</li>
+              <li>Frank Cooper Sands(Gold) Award</li>
+              <li>Venture Foundation Course</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div class="schools" id="primary">
+        <h4>Primary School</h4>
+        <ul>
+          <li>Red Swastika School</li>
+          <li>CCA: Robotics Club (current), Bowling (previous)</li>
+          <li>Position: Member</li>
+          <li>Achievements: NIL</li>
+        </ul>
+      </div>  
+    </section>
+    <section id="skills">
+      <h3 class="header">Skills</h3>
+      <ul>
+        <li>Backwoodsman</li>
+        <li>Orienteering</li>
+        <li>Pioneering</li>
+      </ul>
+    </section>
+<!--end of educ
+
+
+<hr>
+  <h3>Contact Me</h3>
+  <address>
+    <a title="Call me">+65 9825 2214</a><br>
+    <a class="link"href="mailto:lee.ryan.sk712@gmail.com" target="_blank" title="Email me">Lee.ryan.sk712@gmail.com<a></a>
+  </address> 
+  </body>
+</html>

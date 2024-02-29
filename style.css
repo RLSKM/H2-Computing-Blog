@@ -1,0 +1,27 @@
+body{
+  background-color: #ffffff;
+  font-size: 16px;
+}
+header{
+  background-color: #EEEEEE;
+  border-radius: 10%;
+}
+.header{
+  text-decoration: underline;
+}
+section{
+  background-color: #ffffff;
+}
+a.link{
+  color: #4e59f9;
+}
+a.link:hover{
+  color: #452eb8;
+}
+a.link:visited{
+  color: #6e0707;
+}
+.contacts{
+  text-align: center;
+  Background-color: #cbc8c8;
+}
