@@ -11,6 +11,8 @@ header{
 }
 section{
   background-color: #ffffff;
+  padding:20px;
+  margin:20px
 }
 a.link{
   color: #4e59f9;
